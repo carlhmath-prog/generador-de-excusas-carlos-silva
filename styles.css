@@ -1,16 +1,22 @@
 
 
+.excuse1  {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+ border-radius: 20px;
+}
+
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: rgb(240, 243, 194);
     color: #147214;
     display: flex;
-    justify-content: center;
-    align-items: center;
+ 
     height: 80vh;
     margin: 0;
     padding: 50px;
-    border-radius: 20px;
       font-size: 2.0em;
 }
 
@@ -18,6 +24,6 @@ body {
     font-size: 2.0em;
     background-color: #a7eee8;
     padding: 50px;
-    border-radius: 20px;
+ 
 
 }
